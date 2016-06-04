@@ -1,5 +1,7 @@
 # Plug N Pie ![logo](https://raw.githubusercontent.com/villasv/plugandpie/master/docs/icon.png) [![Build Status](https://travis-ci.org/villasv/plugandpie.svg?branch=master)](https://travis-ci.org/villasv/plugandpie) 
 
+[![Join the chat at https://gitter.im/villasv/plugandpie](https://badges.gitter.im/villasv/plugandpie.svg)](https://gitter.im/villasv/plugandpie?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Installation
 Requires `python-smbus` for Python 3
 https://procrastinative.ninja/2014/07/21/smbus-for-python34-on-raspberry/
